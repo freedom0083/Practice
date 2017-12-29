@@ -1,4 +1,4 @@
-package com.happy.practice.spring.batch.flatform.txt.domain;
+package com.happy.practice.spring.batch.pasingfile.flatfile.annotation.fixlength.domain;
 
 import java.util.Date;
 
