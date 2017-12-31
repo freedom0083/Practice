@@ -4,7 +4,7 @@
     <facet type="web" name="Web Gradle : Practice-1.0-SNAPSHOT.war">
       <configuration>
         <webroots>
-          <root url="file://D:\workspace\Practice\src\main\webapp" relative="/" />
+          <root url="file://$MODULE_DIR$/../../src/main/webapp" relative="/" />
         </webroots>
       </configuration>
     </facet>

@@ -17,6 +17,7 @@
           <element id="dir-copy" path="$PROJECT_DIR$/out/production/resources" />
         </element>
       </element>
+      <element id="javaee-facet-resources" facet="Practice_main/web/Web Gradle : Practice-1.0-SNAPSHOT.war" />
     </root>
   </artifact>
 </component>
